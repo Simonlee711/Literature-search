@@ -24,3 +24,4 @@ A list of papers I am reading.
 - [Disorder-Free Data Are All You Need — Inverse Supervised Learning for Broad-Spectrum Head Disorder Detection](https://ai.nejm.org/doi/full/10.1056/AIoa2300137)
 - [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/abs/2403.10131)
 - [EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records](https://openreview.net/forum?id=ZjXEzFE0Qy)
+- [A Closer Look at AUROC and AUPRC under Class Imbalance](https://arxiv.org/abs/2401.06091)
