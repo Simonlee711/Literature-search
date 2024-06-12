@@ -25,3 +25,4 @@ A list of papers I am reading.
 - [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/abs/2403.10131)
 - [EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records](https://openreview.net/forum?id=ZjXEzFE0Qy)
 - [A Closer Look at AUROC and AUPRC under Class Imbalance](https://arxiv.org/abs/2401.06091)
+- [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)
