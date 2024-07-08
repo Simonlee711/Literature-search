@@ -28,3 +28,4 @@ A list of papers I am reading.
 - [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)
 - [All-in-one simulation-based inference](https://arxiv.org/pdf/2404.09636)
 - [No New Net](https://arxiv.org/abs/1809.10483)
+- [tree of thought](https://arxiv.org/abs/2305.10601)
