@@ -30,3 +30,4 @@ A list of papers I am reading.
 - [No New Net](https://arxiv.org/abs/1809.10483)
 - [tree of thought](https://arxiv.org/abs/2305.10601)
 - [Evaluation and mitigation of the limitations of large language models in clinical decision-making](https://www.nature.com/articles/s41591-024-03097-1?utm_source=substack&utm_medium=email)
+- [Matching Patients to Clinical Trials using LLaMA 2 Embeddings and Siamese Neural Network](https://www.medrxiv.org/content/10.1101/2024.06.28.24309677v2.full-text)
