@@ -6,6 +6,8 @@ A list of papers that is related to the Patient Like Me Project
 - [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
 - [ReMatch: Retrieval Enhanced Schema Matching with LLMs](https://arxiv.org/pdf/2403.01567)
 - [karpathy knn vs svm for similarity search](https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb)
+- [Re-evaluating Word Mover’s Distance](https://arxiv.org/pdf/2105.14403)
+- [METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments ](https://aclanthology.org/W05-0909.pdf)
 
 A list of papers that is related to disease onset using Language Model technolgoies
 - [Augmented Risk Prediction for the Onset of Alzheimer's Disease from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2405.16413)
