@@ -36,3 +36,4 @@ A list of papers I am reading.
 - [A multi-center study on the adaptability of a shared foundation model for electronic health records](https://www.nature.com/articles/s41746-024-01166-w)
 - [Clinical-Longformer and Clinical-BigBird: Transformers for long clinical sequences](https://arxiv.org/abs/2201.11838)
 - [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated](https://arxiv.org/abs/2407.10969)
+- [Reuse, Don't Retrain: A Recipe for Continued Pretraining of Language Models](https://arxiv.org/abs/2407.07263)
