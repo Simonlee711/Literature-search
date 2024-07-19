@@ -13,6 +13,8 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [Augmented Risk Prediction for the Onset of Alzheimer's Disease from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2405.16413)
 
 # Optum Relevant Tutorials
+- [SVM vs KNN](https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb)
+- [Triangle Similarity Section Similarity (TS-SS)](https://github.com/taki0112/Vector_Similarity/blob/master/python/TS_SS/tss_ss_vectorized.py)
 
 # Simons-papers
 A list of papers I am reading.
