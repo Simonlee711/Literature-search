@@ -12,6 +12,8 @@ A list of papers that is related to the Patient Like Me Project
 A list of papers that is related to disease onset using Language Model technolgoies
 - [Augmented Risk Prediction for the Onset of Alzheimer's Disease from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2405.16413)
 
+# Optum Relevant Tutorials
+
 # Simons-papers
 A list of papers I am reading.
 - [Scaling Laws for Downstream Task Performance of Large Language Models](https://arxiv.org/abs/2402.04177)
@@ -37,3 +39,4 @@ A list of papers I am reading.
 - [Clinical-Longformer and Clinical-BigBird: Transformers for long clinical sequences](https://arxiv.org/abs/2201.11838)
 - [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated](https://arxiv.org/abs/2407.10969)
 - [Reuse, Don't Retrain: A Recipe for Continued Pretraining of Language Models](https://arxiv.org/abs/2407.07263)
+- [FasterViT: Fast Vision Transformers with Hierarchical Attention](https://arxiv.org/abs/2306.06189)
