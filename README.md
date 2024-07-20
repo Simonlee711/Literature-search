@@ -42,3 +42,4 @@ A list of papers I am reading.
 - [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated](https://arxiv.org/abs/2407.10969)
 - [Reuse, Don't Retrain: A Recipe for Continued Pretraining of Language Models](https://arxiv.org/abs/2407.07263)
 - [FasterViT: Fast Vision Transformers with Hierarchical Attention](https://arxiv.org/abs/2306.06189)
+- [Few-shot Adaptation to Distribution Shifts By Mixing Source and Target Embeddings](https://arxiv.org/abs/2305.14521)
