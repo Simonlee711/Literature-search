@@ -43,3 +43,4 @@ A list of papers I am reading.
 - [Reuse, Don't Retrain: A Recipe for Continued Pretraining of Language Models](https://arxiv.org/abs/2407.07263)
 - [FasterViT: Fast Vision Transformers with Hierarchical Attention](https://arxiv.org/abs/2306.06189)
 - [Few-shot Adaptation to Distribution Shifts By Mixing Source and Target Embeddings](https://arxiv.org/abs/2305.14521)
+- [SparseCL: Sparse Contrastive Learning for Contradiction Retrieval](https://arxiv.org/abs/2406.10746)
