@@ -45,3 +45,4 @@ A list of papers I am reading.
 - [Few-shot Adaptation to Distribution Shifts By Mixing Source and Target Embeddings](https://arxiv.org/abs/2305.14521)
 - [SparseCL: Sparse Contrastive Learning for Contradiction Retrieval](https://arxiv.org/abs/2406.10746)
 - [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v3.full)
+- [MDS-ED: Multimodal Decision Support in the Emergency Department -- a Benchmark Dataset for Diagnoses and Deterioration Prediction in Emergency Medicine](https://arxiv.org/abs/2407.17856)
