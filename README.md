@@ -47,3 +47,4 @@ A list of papers I am reading.
 - [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v3.full)
 - [MDS-ED: Multimodal Decision Support in the Emergency Department -- a Benchmark Dataset for Diagnoses and Deterioration Prediction in Emergency Medicine](https://arxiv.org/abs/2407.17856)
 - [Concept BottleNeck Models](https://arxiv.org/abs/2007.04612)
+- [Segment Anything in Medical Images and Videos: Benchmark and Deployment](https://arxiv.org/abs/2408.03322)
