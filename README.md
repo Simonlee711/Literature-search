@@ -48,4 +48,4 @@ A list of papers I am reading.
 - [MDS-ED: Multimodal Decision Support in the Emergency Department -- a Benchmark Dataset for Diagnoses and Deterioration Prediction in Emergency Medicine](https://arxiv.org/abs/2407.17856)
 - [Concept BottleNeck Models](https://arxiv.org/abs/2007.04612)
 - [Segment Anything in Medical Images and Videos: Benchmark and Deployment](https://arxiv.org/abs/2408.03322)
-- [GRAPH TRANSFORMERS ON EHRS: BETTER REPRESENTATION IMPROVES DOWNSTREAM PERFORMANCE](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openreview.net/pdf?id=pe0Vdv7rsL)
+- [GRAPH TRANSFORMERS ON EHRS: BETTER REPRESENTATION IMPROVES DOWNSTREAM PERFORMANCE](https://openreview.net/pdf?id=pe0Vdv7rsL)
