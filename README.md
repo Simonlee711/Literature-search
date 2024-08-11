@@ -49,3 +49,4 @@ A list of papers I am reading.
 - [Concept BottleNeck Models](https://arxiv.org/abs/2007.04612)
 - [Segment Anything in Medical Images and Videos: Benchmark and Deployment](https://arxiv.org/abs/2408.03322)
 - [GRAPH TRANSFORMERS ON EHRS: BETTER REPRESENTATION IMPROVES DOWNSTREAM PERFORMANCE](https://openreview.net/pdf?id=pe0Vdv7rsL)
+- [Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2408.04187)
