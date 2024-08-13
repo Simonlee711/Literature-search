@@ -51,3 +51,4 @@ A list of papers I am reading.
 - [GRAPH TRANSFORMERS ON EHRS: BETTER REPRESENTATION IMPROVES DOWNSTREAM PERFORMANCE](https://openreview.net/pdf?id=pe0Vdv7rsL)
 - [Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2408.04187)
 - [A generalist vision–language foundation model for diverse biomedical tasks](https://www.nature.com/articles/s41591-024-03185-2?utm_source=substack&utm_medium=email)
+- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292)
