@@ -53,3 +53,4 @@ A list of papers I am reading.
 - [A generalist vision–language foundation model for diverse biomedical tasks](https://www.nature.com/articles/s41591-024-03185-2?utm_source=substack&utm_medium=email)
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292)
 - [How Well Can Vision Language Models See Image Details?](https://arxiv.org/abs/2408.03940)
+- [The Data Addition Dilemma](https://arxiv.org/abs/2408.04154)
