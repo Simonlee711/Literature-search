@@ -55,3 +55,4 @@ A list of papers I am reading.
 - [How Well Can Vision Language Models See Image Details?](https://arxiv.org/abs/2408.03940)
 - [The Data Addition Dilemma](https://arxiv.org/abs/2408.04154)
 - [Bayesian Learning via Stochastic Gradient Langevin Dynamics](https://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf)
+- [Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling](https://www.nature.com/articles/s41746-024-01207-4)
