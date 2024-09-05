@@ -57,3 +57,4 @@ A list of papers I am reading.
 - [Bayesian Learning via Stochastic Gradient Langevin Dynamics](https://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf)
 - [Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling](https://www.nature.com/articles/s41746-024-01207-4)
 - [HeAR- Health Acoustic Representations](https://arxiv.org/pdf/2403.02522)
+- [Uncertainty Quantification with Pre-trained Language Models: A Large-Scale Empirical Analysis](https://aclanthology.org/2022.findings-emnlp.538.pdf)
