@@ -58,3 +58,4 @@ A list of papers I am reading.
 - [Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling](https://www.nature.com/articles/s41746-024-01207-4)
 - [HeAR- Health Acoustic Representations](https://arxiv.org/pdf/2403.02522)
 - [Uncertainty Quantification with Pre-trained Language Models: A Large-Scale Empirical Analysis](https://aclanthology.org/2022.findings-emnlp.538.pdf)
+- [General-Purpose Retrieval-Enhanced Medical Prediction Model Using Near-Infinite History](https://arxiv.org/pdf/2310.20204)
