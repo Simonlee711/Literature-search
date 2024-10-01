@@ -59,3 +59,4 @@ A list of papers I am reading.
 - [HeAR- Health Acoustic Representations](https://arxiv.org/pdf/2403.02522)
 - [Uncertainty Quantification with Pre-trained Language Models: A Large-Scale Empirical Analysis](https://aclanthology.org/2022.findings-emnlp.538.pdf)
 - [General-Purpose Retrieval-Enhanced Medical Prediction Model Using Near-Infinite History](https://arxiv.org/pdf/2310.20204)
+- [Improving model calibration with accuracy versus uncertainty optimization](https://proceedings.nips.cc/paper/2020/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)
