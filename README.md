@@ -61,3 +61,4 @@ A list of papers I am reading.
 - [General-Purpose Retrieval-Enhanced Medical Prediction Model Using Near-Infinite History](https://arxiv.org/pdf/2310.20204)
 - [Improving model calibration with accuracy versus uncertainty optimization](https://proceedings.nips.cc/paper/2020/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)
 - [Larger and more instructable language models become less reliable](https://www.nature.com/articles/s41586-024-07930-y)
+- [https://www.nature.com/articles/s41591-024-03214-0](An open-source framework for end-to-end analysis of electronic health record data)
