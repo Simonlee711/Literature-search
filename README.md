@@ -67,3 +67,4 @@ A list of papers I am reading.
 - [Larger and more instructable language models become less reliable](https://www.nature.com/articles/s41586-024-07930-y)
 - [An open-source framework for end-to-end analysis of electronic health record data](https://www.nature.com/articles/s41591-024-03214-0)
 - [EHRFlow: A Large Language Model-Driven Iterative Multi-Agent Electronic Health Record Data Analysis Workflow](https://openreview.net/pdf?id=lvycHSrFgk)
+- [Why did the Model Fail?": Attributing Model Performance Changes to Distribution Shifts](https://proceedings.mlr.press/v202/zhang23ai.html)
