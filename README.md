@@ -72,3 +72,4 @@ A list of papers I am reading.
 - [Improving model calibration with accuracy versus uncertainty optimization](https://proceedings.nips.cc/paper/2020/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)
 - [Larger and more instructable language models become less reliable](https://www.nature.com/articles/s41586-024-07930-y)
 - [Why did the Model Fail?": Attributing Model Performance Changes to Distribution Shifts](https://proceedings.mlr.press/v202/zhang23ai.html)
+- [DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents](https://arxiv.org/abs/2406.06769)
