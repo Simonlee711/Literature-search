@@ -21,6 +21,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [TRANSFORMERS CAN DO BAYESIAN INFERENCE](https://arxiv.org/pdf/2112.10510)
 - [LC-PFN: Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks](https://www.automl.org/lc-pfn-efficient-bayesian-learning-curve-extrapolation-using-prior-data-fitted-networks/)
 - [TabPFN Blog](https://www.automl.org/tabpfn-a-transformer-that-solves-small-tabular-classification-problems-in-a-second/)
+- [Learning Latent Structural Causal Models](https://arxiv.org/abs/2210.13583)
 
 # EHR related Paper
 - [Value of the Electronic Medical Record for Hospital Care: Update From the Literature](https://www.jmir.org/2021/12/e26323)
