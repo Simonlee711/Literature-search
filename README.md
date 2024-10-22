@@ -44,6 +44,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [EHRFlow: A Large Language Model-Driven Iterative Multi-Agent Electronic Health Record Data Analysis Workflow](https://openreview.net/pdf?id=lvycHSrFgk)
 - [An open-source framework for end-to-end analysis of electronic health record data](https://www.nature.com/articles/s41591-024-03214-0)
 - [General-Purpose Retrieval-Enhanced Medical Prediction Model Using Near-Infinite History](https://arxiv.org/pdf/2310.20204)
+- [Zero shot health trajectory prediction using transformer](https://www.nature.com/articles/s41746-024-01235-0)
 
 # Other Misc./Methods Papers
 A list of papers I am reading.
