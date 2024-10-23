@@ -16,6 +16,9 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [SVM vs KNN](https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb)
 - [Triangle Similarity Section Similarity (TS-SS)](https://github.com/taki0112/Vector_Similarity/blob/master/python/TS_SS/tss_ss_vectorized.py)
 
+# Diffusion Papers
+- [Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/pdf/2406.04329)
+
 # Causal Inference Papers
 - [TABPFN: A TRANSFORMER THAT SOLVES SMALL TABULAR CLASSIFICATION PROBLEMS IN A SECOND](https://arxiv.org/pdf/2207.01848)
 - [TRANSFORMERS CAN DO BAYESIAN INFERENCE](https://arxiv.org/pdf/2112.10510)
