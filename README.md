@@ -81,3 +81,4 @@ A list of papers I am reading.
 - [Why did the Model Fail?": Attributing Model Performance Changes to Distribution Shifts](https://proceedings.mlr.press/v202/zhang23ai.html)
 - [DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents](https://arxiv.org/abs/2406.06769)
 - [A Comprehensive Survey on Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9046288?casa_token=3GT7-7fx4_wAAAAA:XZFmutGMhNIcg1g4PHqRWS7XkwV8eEXLviW2Pix-QAmZM9mcQDlurhXnTAIBn1z7BiK6z9169w)
+- [One Model to learn them all](https://arxiv.org/abs/1706.05137)
