@@ -83,4 +83,5 @@ A list of papers I am reading.
 - [DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents](https://arxiv.org/abs/2406.06769)
 - [A Comprehensive Survey on Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9046288?casa_token=3GT7-7fx4_wAAAAA:XZFmutGMhNIcg1g4PHqRWS7XkwV8eEXLviW2Pix-QAmZM9mcQDlurhXnTAIBn1z7BiK6z9169w)
 - [One Model to learn them all](https://arxiv.org/abs/1706.05137)
-- [https://arxiv.org/abs/2404.08335](https://arxiv.org/abs/2404.08335)
+- [Toward a Theory of Tokenization in LLMs](https://arxiv.org/abs/2404.08335)
+- [A Brief Review of Deep Multi-task Learning and Auxiliary Task Learning](https://arxiv.org/abs/2007.01126)
