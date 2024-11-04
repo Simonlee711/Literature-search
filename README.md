@@ -50,7 +50,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [General-Purpose Retrieval-Enhanced Medical Prediction Model Using Near-Infinite History](https://arxiv.org/pdf/2310.20204)
 - [Zero shot health trajectory prediction using transformer](https://www.nature.com/articles/s41746-024-01235-0)
 
-# Other Misc./Methods Papers
+# Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
 - [Scaling Laws for Downstream Task Performance of Large Language Models](https://arxiv.org/abs/2402.04177)
 - [ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/abs/2305.05665)
