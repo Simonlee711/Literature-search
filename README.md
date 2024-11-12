@@ -87,3 +87,4 @@ A list of papers I am reading.
 - [A Brief Review of Deep Multi-task Learning and Auxiliary Task Learning](https://arxiv.org/abs/2007.01126)
 - [Generating Realistic Tabular Data with Large Language Models](https://arxiv.org/abs/2410.21717)
 - [Foundation Models in Electrocardiogram: A Review](https://arxiv.org/abs/2410.19877)
+- [The Super Weight in Large Language Models](https://arxiv.org/abs/2411.07191v1)
