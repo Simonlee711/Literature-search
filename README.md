@@ -89,3 +89,4 @@ A list of papers I am reading.
 - [Foundation Models in Electrocardiogram: A Review](https://arxiv.org/abs/2410.19877)
 - [The Super Weight in Large Language Models](https://arxiv.org/abs/2411.07191v1)
 - [BERTs are Generative In-Context Learners](https://arxiv.org/abs/2406.04823v2)
+- [The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1.full)
