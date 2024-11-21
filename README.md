@@ -9,6 +9,7 @@ A list of papers that is related to the Patient Like Me Project
 - [Re-evaluating Word Mover’s Distance](https://arxiv.org/pdf/2105.14403)
 - [METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments ](https://aclanthology.org/W05-0909.pdf)
 - [Predicting the Progression of Chronic Kidney Disease: A Systematic Review of Artificial Intelligence and Machine Learning Approaches](https://www.cureus.com/articles/243965-predicting-the-progression-of-chronic-kidney-disease-a-systematic-review-of-artificial-intelligence-and-machine-learning-approaches#!/)
+- [Matching patients to clinical trials with large language models](https://www.nature.com/articles/s41467-024-53081-z)
 
 A list of papers that is related to disease onset using Language Model technolgoies
 - [Augmented Risk Prediction for the Onset of Alzheimer's Disease from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2405.16413)
