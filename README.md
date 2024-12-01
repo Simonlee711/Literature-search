@@ -92,3 +92,4 @@ A list of papers I am reading.
 - [BERTs are Generative In-Context Learners](https://arxiv.org/abs/2406.04823v2)
 - [The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1.full)
 - [Large Language Model Influence on Diagnostic Reasoning A Randomized Clinical Trial](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825395)
+- [Finding "Good Views" of Electrocardiogram Signals for Inferring Abnormalities in Cardiac Condition](https://arxiv.org/abs/2411.17702)
