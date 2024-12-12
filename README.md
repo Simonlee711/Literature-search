@@ -50,6 +50,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [An open-source framework for end-to-end analysis of electronic health record data](https://www.nature.com/articles/s41591-024-03214-0)
 - [General-Purpose Retrieval-Enhanced Medical Prediction Model Using Near-Infinite History](https://arxiv.org/pdf/2310.20204)
 - [Zero shot health trajectory prediction using transformer](https://www.nature.com/articles/s41746-024-01235-0)
+- [Unified Clinical Vocabulary Embeddings for Advancing Precision Medicine](https://www.medrxiv.org/content/10.1101/2024.12.03.24318322v2)
 
 # Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
