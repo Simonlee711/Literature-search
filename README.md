@@ -52,6 +52,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [Zero shot health trajectory prediction using transformer](https://www.nature.com/articles/s41746-024-01235-0)
 - [Unified Clinical Vocabulary Embeddings for Advancing Precision Medicine](https://www.medrxiv.org/content/10.1101/2024.12.03.24318322v2)
 - [An evaluation framework for clinical useof large language models in patientinteraction tasks](https://www.nature.com/articles/s41591-024-03328-5)
+- [Development and Validation of a Machine Learning Algorithm to Classify Lower Urinary Tract Symptoms](https://www.medrxiv.org/content/10.1101/2022.12.25.22283168v2.full-text)
 
 # Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
