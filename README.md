@@ -99,3 +99,4 @@ A list of papers I am reading.
 - [Large Language Model Influence on Diagnostic Reasoning A Randomized Clinical Trial](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825395)
 - [Finding "Good Views" of Electrocardiogram Signals for Inferring Abnormalities in Cardiac Condition](https://arxiv.org/abs/2411.17702)
 - [Superhuman performance of a large language model on the reasoning tasks of a physician](https://arxiv.org/abs/2412.10849)
+- [Transformer2: Self-adaptive LLMs](https://arxiv.org/abs/2501.06252)
