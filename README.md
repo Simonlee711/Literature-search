@@ -55,6 +55,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [Development and Validation of a Machine Learning Algorithm to Classify Lower Urinary Tract Symptoms](https://www.medrxiv.org/content/10.1101/2022.12.25.22283168v2.full-text)
 - [Data from the All of Us research program reinforces existence of activity inequality](https://www.nature.com/articles/s41746-024-01358-4)
 - [Med-Real2Sim: Non-Invasive Medical Digital Twins using Physics-Informed Self-Supervised Learning](https://arxiv.org/abs/2403.00177)
+- [Context Clues: Evaluating Long Context Models for Clinical Prediction Tasks on EHR Data](https://openreview.net/forum?id=zg3ec1TdAP)
 
 # Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
