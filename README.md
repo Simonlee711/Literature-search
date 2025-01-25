@@ -104,3 +104,4 @@ A list of papers I am reading.
 - [Superhuman performance of a large language model on the reasoning tasks of a physician](https://arxiv.org/abs/2412.10849)
 - [Transformer2: Self-adaptive LLMs](https://arxiv.org/abs/2501.06252)
 - [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6)
+- [Hallucinations Can Improve Large Language Models in Drug Discovery](https://arxiv.org/abs/2501.13824)
