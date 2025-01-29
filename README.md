@@ -108,3 +108,4 @@ A list of papers I am reading.
 - [Hallucinations Can Improve Large Language Models in Drug Discovery](https://arxiv.org/abs/2501.13824)
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 - [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training](https://arxiv.org/abs/2501.17161)
+- [he Pitfalls of Memorization: When Memorization Hurts Generalization](https://openreview.net/forum?id=vVhZh9ZpIM)
