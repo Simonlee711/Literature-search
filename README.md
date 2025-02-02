@@ -60,7 +60,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [Context Clues: Evaluating Long Context Models for Clinical Prediction Tasks on EHR Data](https://openreview.net/forum?id=zg3ec1TdAP)
 - [Asclepius-R : Clinical Large Language Model Built On MIMIC-III Discharge Summaries](https://physionet.org/content/asclepius-r/1.1.0/)
 - [KIT-LSTM: Knowledge-guided Time-aware LSTM for Continuous Clinical Risk Prediction](https://pmc.ncbi.nlm.nih.gov/articles/PMC10151119/)
-- [Predicting sex from retinal fundus photographs using automated deep learning](https://www.nature.com/articles/s41598-021-89743-x)
+- [Predicting sex from retina l fundus photographs using automated deep learning](https://www.nature.com/articles/s41598-021-89743-x)
 
 # Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
