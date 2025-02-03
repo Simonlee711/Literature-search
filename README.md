@@ -11,7 +11,7 @@ A list of papers that is related to the Patient Like Me Project
 - [Predicting the Progression of Chronic Kidney Disease: A Systematic Review of Artificial Intelligence and Machine Learning Approaches](https://www.cureus.com/articles/243965-predicting-the-progression-of-chronic-kidney-disease-a-systematic-review-of-artificial-intelligence-and-machine-learning-approaches#!/)
 - [Matching patients to clinical trials with large language models](https://www.nature.com/articles/s41467-024-53081-z)
 - [Time Series Classification using Dynamic Time Warping K-Nearest Neighbours](https://medium.com/@quantclubiitkgp/time-series-classification-using-dynamic-time-warping-k-nearest-neighbour-e683896e0861)
-- [Time Series Classification using Dynamic Time Warping K-Neares t Neighbours](https://ieeexplore.ieee.org/document/9497898)
+- [IEEE: Time Series Classification using Dynamic Time Warping K-Nearest Neighbours](https://ieeexplore.ieee.org/document/9497898)
 
 A list of papers that is related to disease onset using Language Model technolgoies
 - [Augmented Risk Prediction for the Onset of Alzheimer's Disease from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2405.16413)
