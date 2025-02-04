@@ -112,5 +112,5 @@ A list of papers I am reading.
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 - [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training](https://arxiv.org/abs/2501.17161)
 - [The Pitfalls of Memorization: When Memorization Hurts Generalization](https://openreview.net/forum?id=vVhZh9ZpIM)
-- [Leveraging Domain Knowledge for Efficient Reward Modeling in RLHF: A Case-Study in E-Commerce Opinion Summarization](https://arxiv.org/abs/2402.15473)
+- [Leveraging Domain Knowledge for Efficient Reward Modeling in  RLHF: A Case-Study in E-Commerce Opinion Summarization](https://arxiv.org/abs/2402.15473)
 - [DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging](https://arxiv.org/abs/2407.01470)
