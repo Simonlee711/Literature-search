@@ -62,6 +62,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [KIT-LSTM: Knowledge-guided Time-aware LSTM for Continuous Clinical Risk Prediction](https://pmc.ncbi.nlm.nih.gov/articles/PMC10151119/)
 - [Predicting sex from retinal fundus photographs using automated deep learning](https://www.nature.com/articles/s41598-021-89743-x)
 - [Future-Guided Pretraining via Time-to-Event Supervision for 3D Medical Imaging](https://openreview.net/forum?id=zcTLpIfj9u)
+- [Uncertainty Quantification for Clinical Outcome Predictions with (Large) Language Models](https://arxiv.org/abs/2411.03497)
 
 # Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
