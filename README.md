@@ -63,6 +63,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [Predicting sex from retinal fundus photographs using automated deep learning](https://www.nature.com/articles/s41598-021-89743-x)
 - [Future-Guided Pretraining via Time-to-Event Supervision for 3D Medical Imaging](https://openreview.net/forum?id=zcTLpIfj9u)
 - [Uncertainty Quantification for Clinical Outcome Predictions with (Large) Language Models](https://arxiv.org/abs/2411.03497)
+- [Hospitalization prediction from the emergency department using computer vision AI with short patient video clips](https://www.nature.com/articles/s41746-024-01375-3)
 
 # Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
