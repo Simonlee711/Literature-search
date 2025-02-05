@@ -116,3 +116,4 @@ A list of papers I am reading.
 - [The Pitfalls of Memorization: When Memorization Hurts Generalization](https://openreview.net/forum?id=vVhZh9ZpIM)
 - [Leveraging Domain Knowledge for Efficient Reward Modeling in  RLHF: A Case-Study in E-Commerce Opinion Summarization](https://arxiv.org/abs/2402.15473)
 - [DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging](https://arxiv.org/abs/2407.01470)
+- [A Comparison of Multi-task learning and Single-task learning Approaches](https://eprint.iacr.org/2023/611.pdf) 
