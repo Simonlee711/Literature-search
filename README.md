@@ -97,6 +97,7 @@ A list of papers I am reading.
 - [Why did the Model Fail?": Attributing Model Performance Changes to Distribution Shifts](https://proceedings.mlr.press/v202/zhang23ai.html)
 - [DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents](https://arxiv.org/abs/2406.06769)
 - [A Comprehensive Survey on Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9046288?casa_token=3GT7-7fx4_wAAAAA:XZFmutGMhNIcg1g4PHqRWS7XkwV8eEXLviW2Pix-QAmZM9mcQDlurhXnTAIBn1z7BiK6z9169w)
+- [A Probabilistic Inference Approach to Inference-Time Scaling of LLMs using Particle-Based Monte Carlo Methods](https://arxiv.org/abs/2502.01618)
 - [One Model to learn them all](https://arxiv.org/abs/1706.05137)
 - [Toward a Theory of Tokenization in LLMs](https://arxiv.org/abs/2404.08335)
 - [A Brief Review of Deep Multi-task Learning and Auxiliary Task Learning](https://arxiv.org/abs/2007.01126)
