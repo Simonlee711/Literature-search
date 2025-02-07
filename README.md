@@ -65,6 +65,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [Uncertainty Quantification for Clinical Outcome Predictions with (Large) Language Models](https://arxiv.org/abs/2411.03497)
 - [Hospitalization prediction from the emergency department using computer vision AI with short patient video clips](https://www.nature.com/articles/s41746-024-01375-3)
 - [MedRAX: Medical Reasoning Agent for Chest X-ray](https://arxiv.org/abs/2502.02673)
+- [3D Foundation AI Model for Generalizable Disease Detection in Head Computed Tomography](https://arxiv.org/abs/2502.02779)
 
 # Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
