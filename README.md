@@ -22,6 +22,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 
 # Diffusion Papers
 - [Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/pdf/2406.04329)
+- [Large Language Models are Powerful EHR Encoders](https://arxiv.org/abs/2502.17403)
 
 # Causal Inference Papers
 - [TABPFN: A TRANSFORMER THAT SOLVES SMALL TABULAR CLASSIFICATION PROBLEMS IN A SECOND](https://arxiv.org/pdf/2207.01848)
