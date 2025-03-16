@@ -68,6 +68,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [MedRAX: Medical Reasoning Agent for Chest X-ray](https://arxiv.org/abs/2502.02673)
 - [3D Foundation AI Model for Generalizable Disease Detection in Head Computed Tomography](https://arxiv.org/abs/2502.02779)
 - [Multimodal Medical Code Tokenizer](https://arxiv.org/abs/2502.04397)
+- [Large language models are less effective at clinical prediction tasks than locally trained machine learning models](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf038/8064348)
 
 # Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
@@ -122,4 +123,5 @@ A list of papers I am reading.
 - [Leveraging Domain Knowledge for Efficient Reward Modeling in  RLHF: A Case-Study in E-Commerce Opinion Summarization](https://arxiv.org/abs/2402.15473)
 - [DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging](https://arxiv.org/abs/2407.01470)
 - [A Comparison of Multi-task learning and Single-task learning Approaches](https://eprint.iacr.org/2023/611.pdf)
-- [Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness](https://aclanthology.org/2024.acl-long.283/) 
+- [Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness](https://aclanthology.org/2024.acl-long.283/)
+
