@@ -31,6 +31,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [TabPFN Blog](https://www.automl.org/tabpfn-a-transformer-that-solves-small-tabular-classification-problems-in-a-second/)
 - [Learning Latent Structural Causal Models](https://arxiv.org/abs/2210.13583)
 - [ForecastPFN: Synthetically-Trained Zero-Shot Forecasting](https://arxiv.org/abs/2311.01933)
+- [Uncertainty-Aware Dynamic Fusion for Multimodal Clinical Prediction Tasks](https://ieeexplore.ieee.org/abstract/document/10889595?casa_token=bZJEPUrL1gQAAAAA:aBFWf7qf5QhhahP-JBy7XxZRem7da9hfnLEXnN75DIAwb2hdIpKVlUvWygT4EedoAfePPsxqGg)
 
 # EHR related Paper
 - [Value of the Electronic Medical Record for Hospital Care: Update From the Literature](https://www.jmir.org/2021/12/e26323)
