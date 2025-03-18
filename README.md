@@ -125,4 +125,5 @@ A list of papers I am reading.
 - [DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging](https://arxiv.org/abs/2407.01470)
 - [A Comparison of Multi-task learning and Single-task learning Approaches](https://eprint.iacr.org/2023/611.pdf)
 - [Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness](https://aclanthology.org/2024.acl-long.283/)
+- [Deep Learning is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113)
 
