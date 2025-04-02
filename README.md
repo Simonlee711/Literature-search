@@ -126,4 +126,5 @@ A list of papers I am reading.
 - [A Comparison of Multi-task learning and Single-task learning Approaches](https://eprint.iacr.org/2023/611.pdf)
 - [Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness](https://aclanthology.org/2024.acl-long.283/)
 - [Deep Learning is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113)
+- [A Comprehensive Benchmark of Machine and Deep Learning Across Diverse Tabular Datasets](https://arxiv.org/abs/2408.14817v1)
 
