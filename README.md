@@ -70,6 +70,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [3D Foundation AI Model for Generalizable Disease Detection in Head Computed Tomography](https://arxiv.org/abs/2502.02779)
 - [Multimodal Medical Code Tokenizer](https://arxiv.org/abs/2502.04397)
 - [Large language models are less effective at clinical prediction tasks than locally trained machine learning models](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf038/8064348)
+- [TIMER: Temporal Instruction Modeling and Evaluation for Longitudinal Clinical Records](https://arxiv.org/abs/2503.04176)
 
 # Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
