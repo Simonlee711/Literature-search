@@ -129,4 +129,5 @@ A list of papers I am reading.
 - [Deep Learning is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113)
 - [A Comprehensive Benchmark of Machine and Deep Learning Across Diverse Tabular Datasets](https://arxiv.org/abs/2408.14817v1)
 - [FoNE: Precise Single-Token Number Embeddings via Fourier Features](https://arxiv.org/abs/2502.09741)
+- [NoProp: Training Neural Networks without Back-propagation or Forward-propagation](https://arxiv.org/abs/2503.24322)
 
