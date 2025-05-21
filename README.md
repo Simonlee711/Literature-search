@@ -131,4 +131,6 @@ A list of papers I am reading.
 - [FoNE: Precise Single-Token Number Embeddings via Fourier Features](https://arxiv.org/abs/2502.09741)
 - [NoProp: Training Neural Networks without Back-propagation or Forward-propagation](https://arxiv.org/abs/2503.24322)
 - [When Bad Data Leads to Good Models](https://arxiv.org/abs/2505.04741)
+- [Convergent Learning: Do different neural networks learn the same representations?](https://arxiv.org/abs/1511.07543)
+- [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/pdf/2505.12540)
 
