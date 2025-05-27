@@ -71,6 +71,8 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [Multimodal Medical Code Tokenizer](https://arxiv.org/abs/2502.04397)
 - [Large language models are less effective at clinical prediction tasks than locally trained machine learning models](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf038/8064348)
 - [TIMER: Temporal Instruction Modeling and Evaluation for Longitudinal Clinical Records](https://arxiv.org/abs/2503.04176)
+- [Frequent but fragmented: use of note templates to document outpatient visits at an academic health center](https://academic.oup.com/jamia/article-abstract/29/1/137/6401979?redirectedFrom=fulltext)
+- [Standardization of Emergency Department Clinical Note Templates: A Retrospective Analysis across an Integrated Health System](https://pubmed.ncbi.nlm.nih.gov/38588712/)
 
 # Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
