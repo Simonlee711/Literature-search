@@ -135,4 +135,5 @@ A list of papers I am reading.
 - [When Bad Data Leads to Good Models](https://arxiv.org/abs/2505.04741)
 - [Convergent Learning: Do different neural networks learn the same representations?](https://arxiv.org/abs/1511.07543)
 - [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/pdf/2505.12540)
+- [When accurate prediction models yield harmful self-fulfilling prophecies](https://www.cell.com/patterns/fulltext/S2666-3899(25)00077-7)
 
