@@ -74,6 +74,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [Frequent but fragmented: use of note templates to document outpatient visits at an academic health center](https://academic.oup.com/jamia/article-abstract/29/1/137/6401979?redirectedFrom=fulltext)
 - [Standardization of Emergency Department Clinical Note Templates: A Retrospective Analysis across an Integrated Health System](https://pubmed.ncbi.nlm.nih.gov/38588712/)
 - [Exploring Scaling Laws for EHR Foundation Models](https://arxiv.org/abs/2505.22964)
+- [A multimodal vision foundation model for clinical dermatology](https://www.nature.com/articles/s41591-025-03747-y?utm_source=substack&utm_medium=email)
 
 # Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
