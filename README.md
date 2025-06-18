@@ -75,7 +75,7 @@ A list of papers that is related to disease onset using Language Model technolgo
 - [Standardization of Emergency Department Clinical Note Templates: A Retrospective Analysis across an Integrated Health System](https://pubmed.ncbi.nlm.nih.gov/38588712/)
 - [Exploring Scaling Laws for EHR Foundation Models](https://arxiv.org/abs/2505.22964)
 - [A multimodal vision foundation model for clinical dermatology](https://www.nature.com/articles/s41591-025-03747-y?utm_source=substack&utm_medium=email)
-
+- [Foundation Models for Clinical Records at Health System Scale](https://openreview.net/forum?id=bnX1KRerWl)
 # Other Misc./Methods Papers/Deep Learning Papers
 A list of papers I am reading.
 - [Scaling Laws for Downstream Task Performance of Large Language Models](https://arxiv.org/abs/2402.04177)
